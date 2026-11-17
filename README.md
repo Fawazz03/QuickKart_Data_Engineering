@@ -76,10 +76,7 @@ The project also explores:
 
 - Delta Lake MERGE (UPSERT).
 - Incremental data loading using `left_anti` joins.
-- Slowly Changing Dimensions (SCD) Type 1.
-- Slowly Changing Dimensions (SCD) Type 2.
-- Data quality validation.
-- Databricks Workflow orchestration design.
+
 
 ## Business Insights
 

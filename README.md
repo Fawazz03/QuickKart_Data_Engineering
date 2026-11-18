@@ -1,4 +1,4 @@
-# QuickKart — End-to-End Data Engineering Project
+# QuickKart — End to End Data Engineering Project
 
 ## Project Overview
 
